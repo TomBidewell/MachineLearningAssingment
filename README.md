@@ -1,4 +1,4 @@
-# MachineLearningAssingment
+# MachineLearningAssignment
 
 An assignment done during 1st year of University on machine learning: Grade: 25/25
 
